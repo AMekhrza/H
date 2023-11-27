@@ -21,4 +21,4 @@ function modifySentence(sentence: string): string {
 sentence= "Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.";
 let modifiedSentence: string = modifySentence(sentence);
 console.log(modifiedSentence); 
- 
+  

@@ -11,4 +11,4 @@ type MyOmit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>;
 // const todo: TodoPreview = {
 //   completed: false,
 // };
-  
+   

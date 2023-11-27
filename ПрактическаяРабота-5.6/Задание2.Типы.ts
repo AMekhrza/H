@@ -108,4 +108,4 @@ class SomeExternalApi {
 console.log("Users:", SomeExternalApi.getUsers().data);
 console.log("Auth:", SomeExternalApi.auth().data);
 console.log("Some Other:", SomeExternalApi.getSomeOther().data);
- 
+  

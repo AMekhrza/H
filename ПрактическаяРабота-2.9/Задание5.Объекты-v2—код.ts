@@ -26,3 +26,4 @@ console.log(areEqual(object1, object2)); // Должно вывести true
 
 let object3 = { a: 1, b: 3 };
 console.log(areEqual(object1, object3)); // Должно вывести false
+ 

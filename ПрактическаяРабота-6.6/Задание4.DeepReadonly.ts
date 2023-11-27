@@ -33,4 +33,4 @@ type DeepReadonly<T> = {
   
   test.y = 'changed'; // Error
   test.x.z = 'changed'; // Error
-  
+   

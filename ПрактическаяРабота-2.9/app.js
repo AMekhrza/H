@@ -35,3 +35,4 @@ const currentDirectory = process.cwd();
 const distDirectory = path.join(currentDirectory, 'dist');
 const latestModifiedJsFilePath = findLatestModifiedJsFile(distDirectory);
 runLatestModifiedJsFile(latestModifiedJsFilePath);
+

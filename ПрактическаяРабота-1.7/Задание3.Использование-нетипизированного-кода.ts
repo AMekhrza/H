@@ -57,4 +57,4 @@ const humans: Human[] = [
 ];
 
 const result1 = someTypedFunc(humans);
-console.log(result1); // Это выведет результат someTypedFunc
+console.log(result1); // Это выведет результат someTypedFunc 

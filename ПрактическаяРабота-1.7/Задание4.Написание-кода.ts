@@ -26,7 +26,7 @@ function mirrorWords(wordsString: string): string {
 
     console.log(answer," ===> ",mirrorWords(answer));
     
-  })
+  }) 
 
 // 2- Прокомментируйте строки с 25 по 30 и раскомментируйте строки 33, 34, чтобы увидеть уже готовые примеры
   

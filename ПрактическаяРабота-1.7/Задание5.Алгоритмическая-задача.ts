@@ -22,4 +22,4 @@ rl.question('Принимает число: ',(answer)=>{
 
 // Тестовый пример
 // console.log(squareDigits(5432)); // Should log "251694" 
-// console.log(squareDigits(-5432)); // Should log  "-5432" 
+// console.log(squareDigits(-5432)); // Should log  "-5432"  

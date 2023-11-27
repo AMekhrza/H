@@ -15,5 +15,3 @@ function capitalizeEachWord(sentence: string): string {
 let sentence: string = "Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.";
 let capitalizedSentence: string = capitalizeEachWord(sentence);
 console.log(capitalizedSentence);
-
-   

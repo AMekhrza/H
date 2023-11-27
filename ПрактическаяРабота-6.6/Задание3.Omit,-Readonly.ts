@@ -4,7 +4,7 @@ type MyReadonly<T, K extends keyof T> = Omit<T, K> & Readonly<Pick<T, K>>;
 
 
 // type Todo = {
-//   title: string;
+//   title: string; 
 //   description: string;
 //   completed: boolean;
 // };
@@ -18,3 +18,4 @@ type MyReadonly<T, K extends keyof T> = Omit<T, K> & Readonly<Pick<T, K>>;
 // todo.title = "Hello"; // Ошибка: не удается назначить свойство только для чтения
 // todo.description = "barFoo"; //Ошибка: не удается переназначить свойство, доступное только для чтения
 // todo.completed = true; // OK
+ 

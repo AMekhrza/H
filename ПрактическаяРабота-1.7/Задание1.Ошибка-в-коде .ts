@@ -24,4 +24,4 @@ const actor: Actor = {
 const howOldWillBeActorAfterTwentyYears = (actor: Actor) => {
     return actor.age + 20; // Теперь это выполнит арифметическое сложение
 }
-console.log(howOldWillBeActorAfterTwentyYears(actor)); // Теперь должно войти 34
+console.log(howOldWillBeActorAfterTwentyYears(actor)); // Теперь должно войти 34   

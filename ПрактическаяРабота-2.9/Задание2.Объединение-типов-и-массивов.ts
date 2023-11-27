@@ -27,5 +27,4 @@ type arr4Type = MixedArray;
  
 // Массив объектов с свойствами 'id' и 'name'
 type arr5Type = StudentMentorArray;
-
- 
+   
